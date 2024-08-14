@@ -1,0 +1,9 @@
+{
+    "31337": [
+        { "BasicNftaddress": "0xe7d97F9C2233dBB38889e89173C92eEf34EB0bDc" },
+        {
+            "RegistarInvestoraddress": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+        },
+        { "loanDappaddress": "0xD430c1B7B2388Fb165c06aF60336512184a54769" }
+    ]
+}
